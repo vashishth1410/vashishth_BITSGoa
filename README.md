@@ -1,4 +1,4 @@
-  **Hospital & Pharmacy Bill Line-Item Extractor using **Grok 4 Vision**
+Hospital & Pharmacy Bill Line-Item Extractor using **Grok 4 Vision**
 
 **Live API Endpoint (HTTPS)**:  
 `https://emerald-chalcographical-earlie.ngrok-free.dev/extract-bill-data`
