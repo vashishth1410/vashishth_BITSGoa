@@ -52,8 +52,8 @@ Example log when someone uses your API:
 text14:23:10 | INFO  | NEW REQUEST from IP: 2401:4900:... → train_sample_10.pdf
 14:23:19 | INFO  | Extraction complete! Total items: 16
 INFO:     2401:4900:... - "POST /extract-bill-data HTTP/1.1" 200 OK
-Why This Wins
 
+Features
 Uses the most powerful vision model available (Grok 4)
 Zero dependencies on fragile OCR
 Handles real-world messy hospital bills perfectly
