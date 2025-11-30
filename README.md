@@ -153,7 +153,7 @@ This project is MIT licensed. See [LICENSE](LICENSE) for details.
 ## 🙏 Acknowledgments
 - Built for **BFHL Datathon 2025** – Aiming for that Final Placement Offer! 🚀
 - Powered by [xAI Grok-4](https://x.ai/) for cutting-edge vision AI.
-- Registration: [SurveyMonkey Link](https://www.surveymonkey.com/r/datathon_25)
+
 
 **Author:** Vashishth Patel | f20212781@goa.bits-pilani.ac.in | vashishth1410 
 **Date:** November 30, 2025 (Datathon End)  
