@@ -219,7 +219,7 @@ def run_server():
 # Main: Set Token, Start Server, Ngrok Tunnel
 if __name__ == "__main__":
     # Set your authtoken
-    ngrok.set_auth_token("366wOXmF2W5KdysOf41PGBpPzWm_7d5aJd5b56ifGYWAjA2e7")
+    ngrok.set_auth_token("ngrok token")
     
     # Kill old tunnels
     ngrok.kill()
