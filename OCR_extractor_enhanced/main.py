@@ -22,7 +22,7 @@ client = OpenAI(
 
 # Kill old ngrok sessions
 ngrok.kill()
-ngrok.set_auth_token("368qDxCdnBkkgNJKVVutxLSbPbI_7k8mZiN8Vd18XijJ8q9TQ")
+ngrok.set_auth_token("ngrok token")
 
 app = FastAPI(title="HackRx – Grok 4 Vision Bill Extractor")
 
